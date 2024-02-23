@@ -1,0 +1,40 @@
+section {
+	background-color: tan;
+	width: 150px;
+	margin-left: 50px;
+	text-align: center;
+}
+
+#header {
+	color: purple;
+	background-color: orange;
+}
+
+.pantry {
+	width: 200px;
+	height:150px;
+	background-color: blue;
+	margin: 20px 20px 20px 20px;
+	border-style: solid;
+}
+
+.freezer {
+	width: 200px;
+	height:150px;
+	background-color: blue;
+	margin: 20px 20px 20px 20px;
+	border-style: groove;
+	border-color: black;
+}
+
+#pantryimage {
+	background-color: orange;
+	display:flexbox
+
+}
+
+#centered {
+	width: 100%;
+	background-color: blue;
+	text-align: center;
+}
