@@ -1,8 +1,11 @@
 section {
 	background-color: tan;
 	width: 150px;
+	height: 40px;
 	margin-left: 50px;
+	padding-bottom: 7px;
 	text-align: center;
+	border-style: solid;
 }
 
 #header {
@@ -29,8 +32,9 @@ section {
 
 #pantryimage {
 	background-color: orange;
-	display:flexbox
-
+	margin: 200px 0px 0px 350px;
+	display: flex;
+	/* HAVING SOME DIFICULTY MOVING THE IMAGE AROUND WITHOUT DISRUPTING OTHER ELEMENTS. */
 }
 
 #centered {
